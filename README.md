@@ -1,6 +1,6 @@
 <!-- ================= CYBER HUD ANIMATED BANNER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070A11,50:0D1117,100:070A11&height=220&section=header&text=OSAMA%20AYMAN&fontSize=52&fontAlignY=40&desc=%5B%20SYS_ID:%20BLARCH%20%2F%2F%20NODE:%20ONETSBYBLARCH.ONLINE%20%5D&descAlignY=62&descAlign=50&fontColor=00F5D4&stroke=00F5D4&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070A11,50:0D1117,100:070A11&height=220&section=header&text=OSAMA%20AYMAN&fontSize=50&fontAlignY=38&desc=%5B%20SYS_ID:%20BLARCH%20%2F%2F%20NODE:%20ONETSBYBLARCH.ONLINE%20%5D&descAlignY=62&descAlign=50&fontColor=00F5D4&stroke=00F5D4&strokeWidth=2" width="100%" />
 </div>
 
 <!-- ================= DYNAMIC CYBERPUNK TERMINAL TYPING ================= -->
@@ -22,7 +22,7 @@
 
 <br />
 
-<!-- ================= QUICK ACCESS / CONNECT MATRIX ================= -->
+<!-- ================= CONTACT & ACCESS CHANNELS ================= -->
 <p align="center">
   <a href="https://onetsbyblarch.online"><img src="https://img.shields.io/badge/Official_Portal-onetsbyblarch.online-00F5D4?style=for-the-badge&logo=firefox-browser&logoColor=black" alt="Portal" /></a>
   <a href="mailto:info@onetsbyblarch.online"><img src="https://img.shields.io/badge/Business_Email-info%40onetsbyblarch.online-7928CA?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
@@ -83,10 +83,9 @@ Frontend Engineering: React.js, Next.js, Modern UI/UX, State Management.
 
 Databases & DevOps: PostgreSQL, MySQL, Redis, Docker Containerization, Kubernetes, GitHub Actions CI/CD.
 
-🏙️ Holographic 3D Contribution Landscape
-📈 System Activity & Telemetry Analytics
-🐍 Contribution Grid Snake Animation
-📡 Latest Dispatches, VoIP Research & CTF Writeups
+🏆 Global GitHub Trophies Showcase
+📈 Live Dynamic Activity Graph & System Telemetry
+📡 Latest Dispatches & VoIP Research
 🌐 [Platform] Production Gateway Online at onetsbyblarch.online
 
 📞 [VoIP & Asterisk] Custom Dialplan Optimization & WebRTC SIP Gateway Setup
