@@ -2,7 +2,6 @@ name: Generate GitHub Profile 3D Visualizer
 
 on:
   schedule:
-    # يعمل تلقائياً كل يوم الساعة 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -13,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Cityscape
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
