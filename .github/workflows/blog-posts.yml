@@ -1,0 +1,19 @@
+name: Update Latest Posts & Research
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with Latest Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://onetsbyblarch.online/feed.xml"
+          max_post_count: 4
