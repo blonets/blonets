@@ -46,3 +46,51 @@
   Cybersecurity: Binary Exploitation (ROP/Heap), Reverse Engineering, Cryptography
   Web & Cloud: React / Next.js, Go (Fiber), Python (FastAPI), PostgreSQL, Docker
   Status: [ 🛡️ Systems Resilient // ⚡ Exploits Mitigated // 📞 VoIP Nodes Active ]
+🛡️ Master Arsenal & Technology Grid
+Core Languages: C (C99/C11 POSIX), C++, Rust, x86_64 Assembly.
+
+Linux Kernel: Custom Kernel Compilation, Loadable Kernel Modules (LKMs), eBPF Tracing, Memory Management, cgroups v2.
+
+Sockets & Protocols: Raw Socket Programming, Custom TCP/IP implementations, Packet Injectors, Zero-Copy I/O.
+
+Debugging Tools: gdb, strace, ltrace, valgrind, radare2.
+
+VoIP Systems: Asterisk PBX Core (Custom Dialplans, AMI/ARI Automation, PJSIP stack), FreePBX, Kamailio SIP Proxy.
+
+Protocols & Media: SIP, RTP/RTCP, SDP, WebSockets (WebRTC Gateways), Codecs (G.711, G.729, Opus).
+
+Switching & Network Topologies: L2/L3 Switching, VLANs, Open vSwitch (OVS), NAT Traversal (STUN/TURN/ICE).
+
+VoIP Security: SIP Digest Auth Hardening, SRTP/TLS Stream Encryption, Toll-Fraud Mitigation, Fail2ban SIP Filters.
+
+Offensive Security: Penetration Testing, Binary Exploitation, Privilege Escalation (Linux/Windows), Lateral Movement.
+
+Reverse Engineering: Buffer Overflows, ROP Chains, Shellcoding, Ghidra, IDA Pro, Binary Patching.
+
+Packet Forensics: Deep Packet Inspection (Wireshark), Scapy Automated Packet Crafting, IDS/IPS (Snort/Suricata).
+
+Cryptographic Defense: AES, RSA, ECC, Zero-Knowledge Proofs, API Hardening & OWASP Top 10 Mitigations.
+
+Distributions: Arch Linux (Daily Driver & Custom Builds), Kali Linux (Security R&D), Debian/Ubuntu Server, Alpine.
+
+Internals & Hardening: systemd service unit creation, PAM, namespaces, chroot jail isolation.
+
+Firewalls & Mesh Networks: nftables, iptables, WireGuard mesh tunneling, policy-based routing.
+
+Backend Architectures: Go (Fiber/Gin), Python (FastAPI/Django), Node.js/TypeScript, RESTful APIs, gRPC, WebSockets.
+
+Frontend Engineering: React.js, Next.js, Modern UI/UX, State Management.
+
+Databases & DevOps: PostgreSQL, MySQL, Redis, Docker Containerization, Kubernetes, GitHub Actions CI/CD.
+
+🏙️ Holographic 3D Contribution Landscape
+📈 System Activity & Telemetry Analytics
+🐍 Contribution Grid Snake Animation
+📡 Latest Dispatches, VoIP Research & CTF Writeups
+🌐 [Platform] Production Gateway Online at onetsbyblarch.online
+
+📞 [VoIP & Asterisk] Custom Dialplan Optimization & WebRTC SIP Gateway Setup
+
+🛡️ [Cybersecurity] Linux Kernel eBPF Telemetry & Privilege Escalation Mitigation
+
+⚡ [Low-Level] High-Throughput POSIX Socket Routing Engine in C & Go
